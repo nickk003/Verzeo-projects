@@ -1,1 +1,2 @@
 # Verzeo-projects
+# I participated in a Cyber Security Internship Programme and learned a variety of terms and concepts such as Ethical Hacking, Network Security, Penetration Testing, Firewall, Malware, Cloud Security, Information Security, Encryption, Risk Management, Attention to Detail, Problem Solving, Phishing Attacks, SQL Injection, Intrusion Detection System, System Hacking, Cryptography, and many others. In addition, I completed the minor and major projects assigned to me by the company.
